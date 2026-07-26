@@ -7,3 +7,4 @@ Features
 AI Chatbot
 Email Generator  
 Meeting Summarizer
+Live Demo. Built on loveable: https://daily-work-helper.lovable.app
